@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/landforce/AndroidStudioProjects/QRCodeScanner/app/build/intermediates/pre-dexed/debug/classes-ba449734b3934b72c07dce4b94e743532ea9e81b.jar"
+        jar="/home/landforce/AndroidStudioProjects/QRCodeScanner/app/build/intermediates/exploded-aar/com.embarkmobile/zxing-android-minimal/1.2.1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="37064eecdb827788e50302f6e1b094541a831760"/>
+    <item
+        dex="/home/landforce/AndroidStudioProjects/QRCodeScanner/app/build/intermediates/pre-dexed/debug/classes-ce3e0948af4f9fcf7fd6447b7c541e828891af56.jar"
+        jar="/home/landforce/AndroidStudioProjects/QRCodeScanner/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="/home/landforce/AndroidStudioProjects/QRCodeScanner/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-1ee94b110ec02368b79c8d662d9d0768b4669c4a.jar"
+        jar="/home/landforce/AndroidStudioProjects/QRCodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/home/landforce/AndroidStudioProjects/QRCodeScanner/app/build/intermediates/pre-dexed/debug/classes-0bd849504bf317e4f447106aa5dd56886f8651e7.jar"
+        jar="/home/landforce/AndroidStudioProjects/QRCodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/home/landforce/AndroidStudioProjects/QRCodeScanner/app/build/intermediates/pre-dexed/debug/core-2.2-5ef0e59d8721f890ef6ff5dd14f7bd0e3368fa4d.jar"
+        jar="/home/landforce/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/2.2/cba0b93b0072105d808ef7a00a107a4eb97874e7/core-2.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="cba0b93b0072105d808ef7a00a107a4eb97874e7"/>
+    <item
+        dex="/home/landforce/AndroidStudioProjects/QRCodeScanner/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-820090ec777e85e5f91abc11b0ce2cdd64f29191.jar"
+        jar="/usr/share/android-studio/data/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+
+</pre-dex-items>
